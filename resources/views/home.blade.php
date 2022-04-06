@@ -9,5 +9,6 @@
 <body>
     <a href="http://localhost:8000/profile">Profile</a><br>
     <a href="http://localhost:8000/biography">Biography</a>
+    
 </body>
 </html>
